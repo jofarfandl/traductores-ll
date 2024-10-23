@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main ( )
+{
+  int Num1;
+  int Num2;
+  Num1 = 10;
+  Num2 = 5;
+  
+  asm ("addl %%, %%eax;" :"=a"(Num1) : "a" (Num1), "b" (Num2) );
+
+  int var;
+}

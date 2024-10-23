@@ -1,0 +1,22 @@
+$d = 0 ;
+while ( $m =< 3 )
+{
+$sali = 5 + 5 ;
+$s = 2 - 4 ;
+print $s ;
+}
+while ( $r < 5 
+{
+print $t ;
+print "hola" ;
+$r = 8 ;
+}
+if ( $x == 2 )
+{
+$k = "hola" ;
+}
+$d = 9 ;
+$f = $d + $d ;
+$b = $d ;
+$m = "hola" ;
+$s = $d;
